@@ -81,10 +81,7 @@ S-100 Github repository for Validation Check development.
 |	S100_Dev0114	|		|	A grid covers the entire bounded space	|		|	8	|	8-5.2.2	|	5.1.0	|		|	20-09-2023	|
 |	S100_Dev0115	|		|	A grid follows an implicit sequence or traversal order.  Traversal orders conform to those defined in Annex D of ISO 19123.	|		|	8	|	8-5.2.2	|	5.1.0	|		|	20-09-2023	|
 |	S100_Dev0116	|		|	A tiled grid contains two or more grid tessellations for one set of data	|		|	8	|	8-5.2.4	|	5.1.0	|		|	20-09-2023	|
-|	S100_Dev0117	|		|	"If the cell size varies in a grid:
-the grid tessellation must still cover the bounded area.  
-the traversal method must be able to sequence the cells in an order
-information that describes the size of each cell must be included with the cell"	|		|	8	|	8-5.2.5	|	5.1.0	|		|	20-09-2023	|
+|	S100_Dev0117	|		|	If the cell size varies in a grid; the grid tessellation must still cover the bounded area, the traversal method must be able to sequence the cells in an order and information that describes the size of each cell must be included with the cell	|		|	8	|	8-5.2.5	|	5.1.0	|		|	20-09-2023	|
 |	S100_Dev0118	|		|	In a grid of variable cell size nothing is stored for cells with no data	|		|	8	|	8-5.2.5	|	5.1.0	|		|	20-09-2023	|
 |	S100_Dev0119	|		|	Grids exist in 2 or 3 dimensions	|		|	8	|	8-5.2.6	|	5.1.0	|		|	20-09-2023	|
 |	S100_Dev0120	|		|	CV_TINCoverage class conforms to ISO 19123	|		|	8	|	8-5.2.8	|	5.1.0	|		|	20-09-2023	|
