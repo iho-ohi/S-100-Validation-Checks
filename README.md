@@ -7,7 +7,8 @@ S-100 Github repository for Validation Check development.
 
 
 
-	Part		DEV ID		Check ID		Description		Classification		S-100 Part		S-100 Clause		Introduced		Modified		Internal use - uploaded date	
+|Dev ID|Check ID|Description|Classif ication|S-100 Part|S-100 Clause|Introduced|Modified|Dev use-uploaded date|
+|-------|-------|----------------------------------------------------------------|-------|-------|-------|-------|-------|-------|
 |	S100_Dev0001	|		|	The basic data type must be one of the supported category types.	|		|	1	|	4.5	|	5.1.0	|		|	07-07-2023	|
 |	S100_Dev0002	|		|	The Derived Type must be one of the types defined in S-100 or in the Product Specification	|		|	1	|	4.6	|	5.1.0	|		|	07-07-2023	|
 |	S100_Dev0003	|		|	The Enumeration Type must be part of the valid identifiers in the Enumerated Type Declaration	|		|	1	|	4.7	|	5.1.0	|		|	07-07-2023	|
@@ -229,9 +230,5 @@ Or The S-100_DatasetDiscoveryMetadata attribute digitalSignatureValue is mandato
 |	S100_Dev0062	|		|	Smaller date time components of start and end instants must not be encoded unless the available of the successor dataset is know to the corresponding precision 	|		|	17	|	4.9.1	|	5.1.0	|		|	07-07-2023	|
 |	S100_Dev0063	|		|	Zero components must only be encoded if they are significant for indicating the granularity of the start/end instants of the interval	|		|	17	|	4.9.1	|	5.1.0	|		|	07-07-2023	|
 |	S100_Dev0064	|		|	If both userDefinedMaintenanceFrequency and the maintenanceDate are encoded in the same discovery metadata block, the maintenanceDate supersede the userDefinedMaintenanceFrequency	|		|	17	|	4.9.1	|	5.1.0	|		|	07-07-2023	|
-![image](https://github.com/iho-ohi/S-100-Validation-Checks/assets/75443865/f67b45bf-75a6-4b30-a61a-0fa818120bb4)
-
-
-
 
 
