@@ -1,9 +1,7 @@
 # S-100-Validation-Checks
 S-100 Github repository for Validation Check development.
 
-USE SPREADSHEET UNDER DOCUMENTS
-
-## S-100 Validation Tests - DRAFT. Last updated 26/02/24.
+## S-100 Validation Tests - DRAFT. Last updated 01/03/24.
 
 
 | DEV ID                                       | Check ID | Description                                                                                                                                                                                                                                                                                                                             | Classification | S-100 Part | S-100 Clause        | Introduced | Modified | Dev use - uploaded date                 |
