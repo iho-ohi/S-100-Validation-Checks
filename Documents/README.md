@@ -1,4 +1,4 @@
-# Docuemnts underdevelopment by the S-100 validation checks subgroup
+# Documents under development by the S-100 validation checks subgroup
 
 Container for documents and checks under development in the S-100 Validation Checks subgroup.
 
@@ -11,7 +11,7 @@ General structure of this folder hierarchy:
 * Documents/
   * S-158/
     * 0.1.0/
-      * Initial draft of S-158 Validatioon Checks Introduction and Structure (August 2024)
+      * Initial draft of S-158 Validation Checks Introduction and Structure (August 2024)
   * S-158-100/
     * 0.1.0/
       * S-158:100 0.1.0 20240823 initial draft of specification - Word file
