@@ -28,6 +28,6 @@ General structure of this folder hierarchy:
   * misc/
     * miscellaneous documents from the original Documents folder, including the  _1, _2, _3, _4 Excel spreadsheets, PDF from S-100 WG7, generic tests submitted by S-101 PT
 
-Currently only the 0.1.0 drafts of S-158, S-158:100, and S-158:101 are online. Other versions and drafts for other S-158:1xx speciications are expected to be uploaded shortly.
+Currently only the 0.1.0 drafts of S-158, S-158:100, and S-158:101 are online. Other versions and drafts for other S-158:1xx specifications are expected to be uploaded shortly.
 
 If you have a general comment about structure/formatting or specific comments on a test raise an issue for further discussion. Please include "S-158" or "S-158:1xx" and the version number in the issue title.
